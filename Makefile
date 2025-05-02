@@ -2,7 +2,7 @@
 
 SRCS = $(shell git ls-files '*.go' | grep -v '^vendor/')
 
-ACMEPROXY_IMAGE := mdbraber/acmeproxy
+ACMEPROXY_IMAGE := hugojosefson/acmeproxy
 MAIN_DIRECTORY := ./acmeproxy/
 BIN_OUTPUT := dist/acmeproxy
 

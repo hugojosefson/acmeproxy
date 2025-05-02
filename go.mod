@@ -1,4 +1,4 @@
-module github.com/mdbraber/acmeproxy
+module github.com/hugojosefson/acmeproxy
 
 go 1.13
 

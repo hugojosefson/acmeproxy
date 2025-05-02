@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"github.com/mdbraber/acmeproxy/acmeproxy/server"
+	"github.com/hugojosefson/acmeproxy/acmeproxy/server"
 	log "github.com/sirupsen/logrus"
 	"os"
 	"strconv"
